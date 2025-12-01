@@ -367,7 +367,7 @@ create_heatmap(ax, positions, title, ylabel, kde_bw=0.05)
 5. **Language**: English-only transcripts
 6. **Temporal Context**: Turn-level analysis loses some conversational context
 
-## Citation
+<!-- ## Citation
 
 If you use this code, please cite:
 ```bibtex
@@ -378,7 +378,7 @@ If you use this code, please cite:
   publisher = {GitHub},
   url = {https://github.com/yourusername/depression-detection-daic-woz}
 }
-```
+``` -->
 
 ### Dataset Citation
 ```bibtex
